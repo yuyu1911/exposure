@@ -1,0 +1,10 @@
+{
+	"name": "Exposure",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"express": "2.5.5",
+		"ejs": "0.6.1",
+		"easymysql" : "0.2.5"
+  }
+}
